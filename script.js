@@ -31,7 +31,7 @@ let coorArray = rndCoorArray(4)
 
 console.log(coorArray);
 
-//////////////////////////////////
+///////////////////////////////////
 
 function rndCoorTable(n){
 	let array = `<table border="1" style="text-align:center;">
